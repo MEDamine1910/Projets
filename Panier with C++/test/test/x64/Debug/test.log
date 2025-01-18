@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\C++\test\test\Source.cpp(9,10): error C2039: 'getline' n'est pas membre de 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\iostream(18,1):
+      voir la déclaration de 'std'
+  
+D:\C++\test\test\Source.cpp(9,10): error C3861: 'getline' : identificateur introuvable
